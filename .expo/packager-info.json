@@ -1,9 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 819,
-  "expoServerNgrokUrl": "https://wf-ws6.sooyii.kawai-todo.exp.direct",
-  "packagerNgrokUrl": "https://packager.wf-ws6.sooyii.kawai-todo.exp.direct",
-  "ngrokPid": 836
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
+  "webpackServerPort": null
 }
